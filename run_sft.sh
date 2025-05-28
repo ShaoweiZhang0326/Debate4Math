@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3,4 python SFT_train/SFT.py

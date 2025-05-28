@@ -1,0 +1,5 @@
+# CUDA_VISIBLE_DEVICES=3 python main.py
+# 6500-7500
+# CUDA_VISIBLE_DEVICES=4 python main.py
+# 5500-6500
+CUDA_VISIBLE_DEVICES=2 python main.py

@@ -1,0 +1,2 @@
+debate_data/GSM8K_train_has_answer.jsonl filter=lfs diff=lfs merge=lfs -text
+debate_data/MATH_train_has_ans_subject.jsonl filter=lfs diff=lfs merge=lfs -text
